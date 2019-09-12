@@ -12,6 +12,7 @@
 //
 //= require jquery3
 //= require jquery.turbolinks
+//= require datatables
 //= require jquery-ui
 //= require jquery_ujs
 //= require popper
@@ -21,4 +22,5 @@
 //= require cocoon
 //= require activestorage
 //= require turbolinks
+//= require datatables
 //= require_tree .
