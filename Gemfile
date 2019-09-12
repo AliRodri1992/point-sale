@@ -12,9 +12,9 @@ gem 'jbuilder', '2.9.1'
 gem 'bootsnap', '1.4.5', require: false
 gem 'nokogiri', '1.10.4'
 gem 'bootstrap', '4.3.1'
-gem 'jquery-rails','4.3.5'
-gem 'jquery-ui-rails', '6.0.1'
-gem 'popper', '0.5.1'
+gem 'jquery-rails','4.3.5' #
+gem 'jquery-ui-rails', '6.0.1' #
+gem 'popper', '0.5.1' #
 gem 'money-rails', '1.13.2'
 gem 'jquery-datatables', '1.10.19.1'
 gem 'devise', '4.7.1'
