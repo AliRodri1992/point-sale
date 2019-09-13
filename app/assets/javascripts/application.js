@@ -12,7 +12,6 @@
 //
 //= require jquery3
 //= require jquery.turbolinks
-//= require datatables
 //= require jquery-ui
 //= require jquery_ujs
 //= require popper
