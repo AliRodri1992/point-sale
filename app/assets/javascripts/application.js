@@ -22,4 +22,5 @@
 //= require activestorage
 //= require turbolinks
 //= require datatables
+//= require material
 //= require_tree .
