@@ -65,6 +65,7 @@ group :test do
   gem 'minitest-reporters', '1.3.8'
   gem 'guard', '2.15.1'
   gem 'guard-minitest', '2.4.6'
+  gem 'rspec-rails'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
